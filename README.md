@@ -35,6 +35,7 @@ We plan to control for family income, since prior research suggests it is among 
 ## Data Source
 
 - U.S. Department of Education **College Scorecard**
+- https://collegescorecard.ed.gov/data/
 
 ## Next Steps
 
