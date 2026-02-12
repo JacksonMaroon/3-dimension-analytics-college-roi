@@ -1,0 +1,10 @@
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+
+data/processed/*.csv
+!data/processed/.gitkeep
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
