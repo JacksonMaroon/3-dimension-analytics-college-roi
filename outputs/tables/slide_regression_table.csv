@@ -1,0 +1,5 @@
+var,coef_baseline,se_baseline_hc3,p_baseline_hc3,coef_full,se_full_hc3,p_full_hc3
+Median Household Income,0.7826,0.0281,0.0,0.5481,0.029,0.0
+STEM Enrollment Share,,,,31047.0076,2531.3972,0.0
+Completion Rate,,,,14928.0883,2537.1829,0.0
+Prestige Proxy (1 - Admission Rate),,,,8399.3692,1607.0578,0.0
