@@ -9,3 +9,7 @@ data/processed/*.csv
 __pycache__/
 *.pyc
 .venv/
+
+# local writing drafts
+deliverables/client_summary_draft.md
+deliverables/presentation_talk_track.md
