@@ -1,0 +1,5 @@
+Practical interpretation (holding other variables fixed):
++10 percentage points STEM share -> $3,105 in earnings
++10 percentage points completion rate -> $1,493 in earnings
++10 percentage points admission rate -> -$840 in earnings
++$10,000 median household income -> $5,481 in earnings
